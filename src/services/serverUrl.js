@@ -1,3 +1,3 @@
 
 
-export const serverUrl='http://localhost:4005'
+export const serverUrl='https://videoplayer-react-json-backend-server.onrender.com'
